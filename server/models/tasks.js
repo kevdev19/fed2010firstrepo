@@ -19,6 +19,6 @@ let Tasks = mongoose.model(
   collection
 );
 
-module.export = {
+module.exports = {
   Tasks,
 };
